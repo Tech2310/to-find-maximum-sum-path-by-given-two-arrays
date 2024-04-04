@@ -1,0 +1,2 @@
+java -cp /tmp/v8hW61lkHg/MaxSumPath
+Maximum sum path: 15
